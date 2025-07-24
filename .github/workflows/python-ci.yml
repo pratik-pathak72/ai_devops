@@ -38,5 +38,3 @@ jobs:
     - name: Mock Deployment
       run: |
         echo "Deploying application..."
-
-In this corrected version, the step "Lint with flake8" is properly indented and should not cause any errors.
